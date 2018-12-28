@@ -1,2 +1,3 @@
-l
-      end
+      puts"number"
+number= gets.to_i
+  
